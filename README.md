@@ -1,3 +1,8 @@
+Projeto de uma calculadora de salario desenvolvida em React com o uso do Material para auxilio no Layout.
+
+
+-- Instruções Gerais --
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
